@@ -1,6 +1,7 @@
-# V-blogApp (v-blog)
+# V-blogApp (v-blog) 💖💚
 
 v-Blog web application
+
 
 ## Install the dependencies
 ```bash
