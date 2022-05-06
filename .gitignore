@@ -31,3 +31,10 @@ yarn-error.log*
 *.ntvs*
 *.njsproj
 *.sln
+
+#Firebase 
+#firebaseConfig.js 개인 key가 있어서 공유하면 안된다.
+#.firebaserc  => 프로젝트 init 할때 바뀐다.
+firebaseConfig.js
+*.log
+.firebaserc
