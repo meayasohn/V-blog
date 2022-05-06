@@ -42,3 +42,4 @@ quasar build
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
 
 Upated by Window 10
+Update by PLF Window 10
