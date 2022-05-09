@@ -9,12 +9,15 @@
     "lint": "eslint --ext .js,.vue ./",
     "format": "prettier --write \"**/*.{js,vue,scss,html,md,json}\" --ignore-path .gitignore",
     "test": "echo \"No test specified\" && exit 0",
+    "build": "quasar build",
+    "build:pwa": "quasar build -m pwa",
     "emul": "firebase emulators:start"
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
     "core-js": "^3.6.5",
-    "quasar": "^2.6.6",
+    "firebase": "^9.8.1",
+    "quasar": "^2.6.5",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0"
   },
